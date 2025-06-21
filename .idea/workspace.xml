@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fb0e6e4-6280-4ff1-beec-57eb95d116a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/LinearRegression.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearRegression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/house_price_data.csv" afterDir="false" />
-    </list>
+    <list default="true" id="8fb0e6e4-6280-4ff1-beec-57eb95d116a3" name="Changes" comment="First working version with data preprocessing&#10;Basic model training and evaluation added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/JoelDlima/Linear-Regression",
+    "accountId": "12fbb6f9-fae6-47ea-82e8-8f83f86a5914"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
 }]]></component>
@@ -68,6 +65,19 @@
       <option name="presentableId" value="Default" />
       <updated>1750483357424</updated>
     </task>
+    <task id="LOCAL-00001" summary="First working version with data preprocessing&#10;Basic model training and evaluation added">
+      <option name="closed" value="true" />
+      <created>1750484523815</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1750484523815</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First working version with data preprocessing&#10;Basic model training and evaluation added" />
+    <option name="LAST_COMMIT_MESSAGE" value="First working version with data preprocessing&#10;Basic model training and evaluation added" />
   </component>
 </project>
